@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
 	}
 	else
 	
-    if (media < 6,0)  
+    if (media < 6.0)  
     {
     	printf("vc esta de EXAME %.2f \n", media);
 	}
